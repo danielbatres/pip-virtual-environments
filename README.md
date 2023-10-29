@@ -1,1 +1,3 @@
-# pip-virtual-environments
+# PIP and Virtual Environments
+
+## Steps
