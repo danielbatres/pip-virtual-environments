@@ -13,7 +13,7 @@ python3 main.py
 ## App project
 
 ```sh
-git 
+git clone
 
 cd app
 
